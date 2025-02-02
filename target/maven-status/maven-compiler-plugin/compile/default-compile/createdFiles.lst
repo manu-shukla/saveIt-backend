@@ -1,1 +1,8 @@
+com/saveIt/backend/server/controllers/FileController.class
+com/saveIt/backend/models/User.class
 com/saveIt/backend/BackendApplication.class
+com/saveIt/backend/core/respository/FileRepository.class
+com/saveIt/backend/models/File.class
+com/saveIt/backend/models/User$UserBuilder.class
+com/saveIt/backend/server/controllers/Health.class
+com/saveIt/backend/core/service/FileService.class

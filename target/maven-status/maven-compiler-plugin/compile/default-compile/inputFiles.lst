@@ -1,1 +1,7 @@
 /Users/manushukla/Desktop/saveIt-backend/src/main/java/com/saveIt/backend/BackendApplication.java
+/Users/manushukla/Desktop/saveIt-backend/src/main/java/com/saveIt/backend/core/respository/FileRepository.java
+/Users/manushukla/Desktop/saveIt-backend/src/main/java/com/saveIt/backend/core/service/FileService.java
+/Users/manushukla/Desktop/saveIt-backend/src/main/java/com/saveIt/backend/models/File.java
+/Users/manushukla/Desktop/saveIt-backend/src/main/java/com/saveIt/backend/models/User.java
+/Users/manushukla/Desktop/saveIt-backend/src/main/java/com/saveIt/backend/server/controllers/FileController.java
+/Users/manushukla/Desktop/saveIt-backend/src/main/java/com/saveIt/backend/server/controllers/Health.java

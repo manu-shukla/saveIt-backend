@@ -10,6 +10,6 @@ import java.util.List;
 public class User {
     private String name;
     private String email;
-    private List<Files> filesList;
+    private List<File> filesList;
 
 }
