@@ -64,6 +64,3 @@ supports various file types and ensures secure handling of file operations.
 - **Maven**: Build and dependency management tool
 - **Lombok**: Library to reduce boilerplate code
 - **Spring Web**: Module for building web applications
-- **Spring Data JPA**: Module for data access
-- **Spring Security**: Module for securing the application
-- **H2 Database**: In-memory database for development and testing
